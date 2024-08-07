@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\bin\Debug\net8.0\PhuongTrinhBacNhat.exe
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\bin\Debug\net8.0\PhuongTrinhBacNhat.deps.json
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\bin\Debug\net8.0\PhuongTrinhBacNhat.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\bin\Debug\net8.0\PhuongTrinhBacNhat.dll
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\bin\Debug\net8.0\PhuongTrinhBacNhat.pdb
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\obj\Debug\net8.0\PhuongTrinhBacNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\obj\Debug\net8.0\PhuongTrinhBacNhat.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\obj\Debug\net8.0\PhuongTrinhBacNhat.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\obj\Debug\net8.0\PhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\obj\Debug\net8.0\PhuongTrinhBacNhat.dll
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\obj\Debug\net8.0\refint\PhuongTrinhBacNhat.dll
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\obj\Debug\net8.0\PhuongTrinhBacNhat.pdb
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\obj\Debug\net8.0\PhuongTrinhBacNhat.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\ChiSoCoThe\obj\Debug\net8.0\ref\PhuongTrinhBacNhat.dll
